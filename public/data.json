@@ -1,0 +1,172 @@
+[
+  {
+    "name": "adnan",
+    "serviceName": "Your Dream Home Starts with Our Interior Services",
+    "email": "adnan@bhuiyan.com",
+    "price": "$200",
+    "description": "Elevate your space with our expert interior design. Reflect your style and lifestyle in every corner of your home",
+    "serviceArea": "dhaka,banglash",
+    "photo": "https://i.imgur.com/TwGMriq.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Elevate Your Home with Electronics",
+    "email": "adnan@bhuiyan.com",
+    "price": "$120$",
+    "description": "Elevate your home with our electronic services. Smart solutions, installation, and maintenance to make your life more convenient and secure.",
+    "serviceArea": "khulna,banglades",
+    "photo": "https://i.imgur.com/8f84krg.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Color Your World with Our Painting Services",
+    "email": "adnan@bhuiyan.com",
+    "price": "$100",
+    "description": "Revitalize your space with our expert painting. Elevate your interiors and exteriors with precision and creativity.",
+    "serviceArea": "Rajshahi, bangladesh",
+    "photo": "https://i.imgur.com/ReAIXPO.png"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Your Trusted Shifting Partner",
+    "email": "adnan@bhuiyan.com",
+    "price": "$99",
+    "description": "Relocate stress-free with our efficient home shifting services. Your trusted partner for a smooth move.",
+    "serviceArea": "Dinjpur,bangladesh",
+    "photo": "https://i.imgur.com/GleKtqN.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Comprehensive Security Solutions",
+    "email": "adnan@bhuiyan.com",
+    "price": "$120",
+    "description": "Protect your home with our expert security services. Peace of mind, 24/7 surveillance, and state-of-the-art technology.",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://i.imgur.com/n6595wr.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Healthy, Happy cleaning services",
+    "email": "adnan@bhuiyan.com",
+    "price": "$70",
+    "description": "Expert cleaning services for pristine, healthy homes. We make your space sparkle with our thorough, reliable cleaning.",
+    "serviceArea": "",
+    "photo": "https://i.imgur.com/i2Ju1KA.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Your Health, Our Priority",
+    "email": "adnan@bhuiyan.com",
+    "price": "$130",
+    "description": "Your trusted partner for home medical care. Compassionate, professional, and personalized services for your well-being",
+    "serviceArea": "Daka,bangladesh",
+    "photo": "https://i.imgur.com/WbLY81t.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Feast On Our Finest Dishes",
+    "email": "adnan@bhuiyan.com",
+    "price": "$40",
+    "description": "Satisfy your cravings with our delectable home food delivery. Exceptional flavors brought right to your doorstep.",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://i.imgur.com/5yPnyIP.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Solving Your Plumbing Problems",
+    "email": "adnan@bhuiyan.com",
+    "price": "$90",
+    "description": "Fast, reliable plumbing solutions for your home. We fix leaks, unclog drains, and ensure your comfort.",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://i.imgur.com/OaOxJsl.jpg"
+  },
+  {
+    "name": "rojoni ",
+    "serviceName": "Interior service",
+    "email": "halima@gmail.com",
+    "price": "$100",
+    "description": "This is a amazing",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "",
+    "userPhoto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "name": "rojoni ",
+    "serviceName": "Interior service",
+    "email": "halima@gmail.com",
+    "price": "$100",
+    "description": "This is a amazing",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "userPhoto": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80"
+  },
+  {
+    "name": "rojoni ",
+    "serviceName": "Interior service",
+    "email": "halima@gmail.com",
+    "price": "$100",
+    "description": "This is a amazing",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://images.unsplash.com/photo-1633332755192-727a05c4013d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8MXx8dXNlcnxlbnwwfHwwfHw%3D&w=1000&q=80",
+    "userPhoto": "https://i.imgur.com/oC5Igyy.png"
+  },
+  {
+    "name": "rojoni ",
+    "serviceName": "shifiting service",
+    "email": "halima@gmail.com",
+    "price": "$400",
+    "description": "This is a amazing dress ",
+    "serviceArea": "Rajshahi, bangladesh",
+    "photo": "https://i.imgur.com/oC5Igyy.png",
+    "userPhoto": "https://i.imgur.com/KzfE4B3.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Interior service",
+    "email": "adnan@bhuiyan.com",
+    "price": "$100",
+    "description": "Elevate your space with our expert interior design. Reflect your style and lifestyle in every corner of your home",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://i.imgur.com/TwGMriq.jpg",
+    "userPhoto": "https://i.imgur.com/mxSU3ZF.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Your Dream Home Starts with Our Interior Services",
+    "email": "adnan@bhuiyan.com",
+    "price": "$400",
+    "description": "Elevate your space with our expert interior design. Reflect your style and lifestyle in every corner of your home",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "Elevate your space with our expert interior design. Reflect your style and lifestyle in every corner of your home"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Interior service",
+    "email": "adnan@bhuiyan.com",
+    "price": "$100",
+    "description": "Elevate your space with our expert interior design. Reflect your style and lifestyle in every corner of your home",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://imgur.com/a/Z2pTupr",
+    "userPhoto": "https://i.imgur.com/MXIL7IF.jpg"
+  },
+  {
+    "name": "adnan",
+    "serviceName": "Solving Your Plumbing Problems",
+    "email": "adnan@bhuiyan.com",
+    "price": "$100",
+    "description": "Fast, reliable plumbing solutions for your home. We fix leaks, unclog drains, and ensure your comfort.",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://i.imgur.com/rnpDtCl.jpg",
+    "userPhoto": "https://i.imgur.com/MXIL7IF.jpg"
+  },
+  {
+    "name": "Halima Islam",
+    "serviceName": "Interior service",
+    "email": "halimaislam6181@gmail.com",
+    "price": "$100",
+    "description": "Elevate your space with our expert interior design. Reflect your style and lifestyle in every corner of your home",
+    "serviceArea": "Dhaka,Banglash",
+    "photo": "https://i.ibb.co/N1zy0R5/Reviews2.jpg",
+    "userPhoto": "https://i.imgur.com/KzfE4B3.jpg"
+  }
+]
