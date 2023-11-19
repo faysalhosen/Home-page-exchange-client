@@ -19,7 +19,7 @@ const Home = () => {
     return (
         <div>
             <Helmet>
-                <title>home-exhange | services</title>
+                <title>home-exhange</title>
             </Helmet>
             <Banner></Banner>
             <PopularService popularServices={popularServices}></PopularService>

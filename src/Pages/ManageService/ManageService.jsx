@@ -50,7 +50,7 @@ const ManageService = () => {
   return (
     <div>
         <Helmet>
-                <title>Manage service</title>
+                <title> Home-Exchane | Manage service</title>
             </Helmet>
       <h2 className="text-2xl mt-16 text-center mb-8 font-bold text-rose-700">
         Manage Your service: {manageService.length}

@@ -2,6 +2,7 @@ import { Link } from "react-router-dom";
 import React, {  useRef } from "react";
 import Lottie from "lottie-react";
 import Error from '../../assets/Animation .json'
+import { Helmet } from "react-helmet-async";
 
 const ErrorPage = () => {
   const container = useRef(null);
@@ -10,6 +11,9 @@ const ErrorPage = () => {
     <div>
       
       <div className="container max-w-3xl mx-auto" >
+      <Helmet>
+                <title>Error</title>
+            </Helmet>
          <Lottie animationData={Error}></Lottie>
       </div>
       <div className="flex justify-center">

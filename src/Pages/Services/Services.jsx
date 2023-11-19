@@ -2,6 +2,7 @@ import { useContext,  useState } from "react";
 import { Link, useLoaderData } from "react-router-dom";
 import { AuthContext } from "../../provider/AuthProvider";
 import { FaLocationDot } from "react-icons/fa6";
+import { Helmet } from "react-helmet-async";
 
 const Services = () => {
   const { user } = useContext(AuthContext);
@@ -15,8 +16,11 @@ const Services = () => {
   const displayAllServices = showAll ? filteredServices: filteredServices.slice(0, 6);
 
   return (
-    // 
+    
     <div className="grid grid-cols-1  max-w-4xl mx-auto mt-20">
+       <Helmet>
+                <title> Home-Exchane | Services</title>
+            </Helmet>
       <span className="mx-auto">
         <img className=" w-20" src="https://i.imgur.com/JHOf3wu.jpg" alt="" />
       </span>
