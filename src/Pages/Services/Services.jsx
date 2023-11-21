@@ -19,7 +19,7 @@ const Services = () => {
     
     <div className="grid grid-cols-1  max-w-4xl mx-auto mt-20">
        <Helmet>
-                <title> Home-Exchane | Services</title>
+                <title> Home-Exchange | Services</title>
             </Helmet>
       <span className="mx-auto">
         <img className=" w-20" src="https://i.imgur.com/JHOf3wu.jpg" alt="" />

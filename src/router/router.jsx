@@ -35,7 +35,7 @@ const router = createBrowserRouter([
             },
             {
                 path: '/addservices',
-                element:<AddService></AddService>,
+                element:<PrivateRoute><AddService></AddService></PrivateRoute>,
                // loader: () => fetch('http://localhost:5000/services')
                 // https://home-service-exchange-server.vercel.app
             },
@@ -56,7 +56,7 @@ const router = createBrowserRouter([
             {
                 path: '/updateService/:id',
                 element: <UpdateService></UpdateService>,
-                // loader: ({params}) => fetch(`http://localhost:5000/services/${params.id}`)
+                loader: ({params}) => fetch(`http://localhost:5000/purchase/${params.id}`)
             }
 
 
