@@ -35,7 +35,7 @@ const UpdateService = () => {
       serviceArea,
       photo,
     };
-    fetch(`http://localhost:5000/purchase/${_id}`,{
+    fetch(`https://home-page-service.vercel.app/purchase/${_id}`,{
       method: 'PUT',
       headers: {
         'content-type': 'application/json'

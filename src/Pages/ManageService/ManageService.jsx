@@ -8,13 +8,16 @@ const ManageService = () => {
   const { user } = useContext(AuthContext);
   const [manageService, setManageService] = useState([]);
 
-  const url = `http://localhost:5000/purchase?email=${user?.email}`;
-  // https://home-service-exchange-server.vercel.app
+  
+  
   useEffect(() => {
-    fetch(url)
-      .then((res) => res.json())
-      .then((data) => setManageService(data))
-  }, [url]);
+    const url = `https://home-page-service.vercel.app/purchase?email=${user?.email}`;
+   if(user){
+    fetch(url, {credentials: 'include'})
+    .then((res) => res.json())
+    .then((data) => setManageService(data))
+   }
+  }, [user]);
 
   const handleDeleteService = id => {
     Swal.fire({
@@ -27,7 +30,7 @@ const ManageService = () => {
       confirmButtonText: "Yes, delete it!"
     }).then((result) => {
       if (result.isConfirmed) {
-        fetch(`http://localhost:5000/purchase/${id}`, {
+        fetch(`https://home-page-service.vercel.app/purchase/${id}`, {
           method: 'DELETE'
         })
           .then(res => res.json)
