@@ -44,7 +44,7 @@ const AuthProvider = ({children}) => {
             setUser(currentUser);
             setloading(false);
             if(currentUser){
-                axios.post('https://home-page-service.vercel.app/jwt', loggedUser, {withCredentials: true})
+                axios.post('https://b8a11-server-side-faysalhosen.vercel.app/jwt', loggedUser, {withCredentials: true})
                 .then((res) => {
                     console.log(res.data)
                 })

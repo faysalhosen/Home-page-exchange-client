@@ -23,7 +23,7 @@ const router = createBrowserRouter([
             {
                 index: true,
                 element: <Home></Home>,
-                loader: () => fetch('https://home-page-service.vercel.app/services')
+                loader: () => fetch('https://b8a11-server-side-faysalhosen.vercel.app/services')
             },
             {
                 path: '/login',
@@ -35,19 +35,19 @@ const router = createBrowserRouter([
             },
             {
                 path: '/addservices',
-                element:<PrivateRoute><AddService></AddService></PrivateRoute>,
-               // loader: () => fetch('https://home-page-service.vercel.app/services')
+                element: <PrivateRoute><AddService></AddService></PrivateRoute>,
+                // loader: () => fetch('https://b8a11-server-side-faysalhosen.vercel.app/services')
                 // https://home-service-exchange-server.vercel.app
             },
             {
                 path: '/services',
                 element: <Services></Services>,
-                loader: () => fetch('https://home-page-service.vercel.app/services')
+                loader: () => fetch('https://b8a11-server-side-faysalhosen.vercel.app/services')
             },
             {
                 path: '/services/:id',
                 element: <PrivateRoute><ServiceDetails></ServiceDetails></PrivateRoute>,
-                loader: ({ params }) => fetch(`https://home-page-service.vercel.app/services/${params.id}`)
+                loader: ({ params }) => fetch(`https://b8a11-server-side-faysalhosen.vercel.app/services/${params.id}`)
             },
             {
                 path: '/purchase',
@@ -56,7 +56,7 @@ const router = createBrowserRouter([
             {
                 path: '/updateService/:id',
                 element: <UpdateService></UpdateService>,
-                loader: ({params}) => fetch(`https://home-page-service.vercel.app/purchase/${params.id}`)
+                loader: ({ params }) => fetch(`https://b8a11-server-side-faysalhosen.vercel.app/purchase/${params.id}`)
             }
 
 

@@ -31,7 +31,7 @@ const AddService = () => {
     };
     console.log(addService);
 
-    fetch("https://home-page-service.vercel.app/services", {
+    fetch("https://b8a11-server-side-faysalhosen.vercel.app/services", {
       method: "POST",
       headers: {
         "Content-Type": "application/json",

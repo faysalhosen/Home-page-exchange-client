@@ -33,7 +33,7 @@ const ServiceDetails = () => {
       photo,
     };
     console.log(booking);
-    fetch("https://home-page-service.vercel.app/purchase", {
+    fetch("https://b8a11-server-side-faysalhosen.vercel.app/purchase", {
       method: "POST",
       headers: {
         "content-type": "application/json",

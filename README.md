@@ -1,7 +1,6 @@
 # Home service Exchange:
 
-# live link:https://home-page-exchange.web.app/
-
+# live link:https://home-page-exchange-c76d3.web.app/
 - create a navbar where is service , manage service, add service dashboard route
 - Home page have navbar , footer popular services, features, and what client say section
 - popular services have view details button .where you can see service details

@@ -1,8 +1,5 @@
 {
   "projects": {
-    "default": "home-services-exchange-bcfcd",
-    "dist": "home-page-exchange"
-  },
-  "targets": {},
-  "etags": {}
+    "default": "home-page-exchange-c76d3"
+  }
 }

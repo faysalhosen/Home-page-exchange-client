@@ -11,7 +11,7 @@ const ManageService = () => {
   
   
   useEffect(() => {
-    const url = `https://home-page-service.vercel.app/purchase?email=${user?.email}`;
+    const url = `https://b8a11-server-side-faysalhosen.vercel.app/purchase?email=${user?.email}`;
    if(user){
     fetch(url, {credentials: 'include'})
     .then((res) => res.json())
@@ -30,7 +30,7 @@ const ManageService = () => {
       confirmButtonText: "Yes, delete it!"
     }).then((result) => {
       if (result.isConfirmed) {
-        fetch(`https://home-page-service.vercel.app/purchase/${id}`, {
+        fetch(`https://b8a11-server-side-faysalhosen.vercel.app/purchase/${id}`, {
           method: 'DELETE'
         })
           .then(res => res.json)
