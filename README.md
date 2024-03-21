@@ -1,9 +1,23 @@
-# Home service Exchange:
+# Home Page Exchange
 
-# live link:https://home-page-exchange-c76d3.web.app/
-- create a navbar where is service , manage service, add service dashboard route
-- Home page have navbar , footer popular services, features, and what client say section
-- popular services have view details button .where you can see service details
-- single service details page have book now button  when you click book now button 
-you can see a input field modal and you can purchase any services
-- Manage service page have delete and update button where you can update and delete any service.
+Home Page Exchange is a web application designed to connect home server providers with users seeking various home services.
+
+## Features
+
+- **User Authentication**: Secure login and registration system for both providers and users.
+- **Service Management**: Providers can easily post, update, and delete services they offer.
+- **Search Functionality**: Users can search for specific services based on their needs.
+- **Responsive Design**: The application is optimized for use on desktop and mobile devices.
+
+## Technologies Used
+
+- **Frontend**: React.js
+- **Backend**: Node.js, Express.js
+- **Database**: MongoDB
+
+## Getting Started
+
+1. Clone the repository:
+
+   ```bash
+   git clone https://github.com/yourusername/home-page-exchange.git
