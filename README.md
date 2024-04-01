@@ -20,4 +20,4 @@ Home Page Exchange is a web application designed to connect home server provider
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/yourusername/home-page-exchange.git
+   git clone https://github.com/faysalhosen/home-page-exchange.git
